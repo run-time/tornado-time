@@ -411,7 +411,7 @@ class TornadoTime extends HTMLElement {
                 <path id="titleArcTop" d="M 12 80 A 68 68 0 0 1 148 80"></path>
               </defs>
               <text>
-                <textPath href="#titleArcTop" startOffset="50%" text-anchor="middle">TIDY TORNADO TIMER</textPath>
+                <textPath href="#titleArcTop" startOffset="50%" text-anchor="middle">TIDY TORNADO TIME</textPath>
               </text>
             </svg>
 

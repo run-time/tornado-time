@@ -180,7 +180,7 @@ class TornadoTime extends HTMLElement {
           --bg-top: #8fe7ff;
           --bg-middle: #b6ffcb;
           --bg-bottom: #fff0a8;
-          --timer-ink: #00000066;
+          --timer-ink: #000000aa;
         }
 
         * {
@@ -411,7 +411,7 @@ class TornadoTime extends HTMLElement {
                 <path id="titleArcTop" d="M 12 80 A 68 68 0 0 1 148 80"></path>
               </defs>
               <text>
-                <textPath href="#titleArcTop" startOffset="50%" text-anchor="middle">TIDY TORNADO TIME</textPath>
+                <textPath href="#titleArcTop" startOffset="50%" text-anchor="middle">TIDY TORNADO</textPath>
               </text>
             </svg>
 

@@ -403,7 +403,7 @@ class TornadoTime extends HTMLElement {
         <div id="background" class="background-layer" aria-hidden="true"></div>
 
         <section class="panel" id="panel">
-          <h1 class="sr-only">Tidy Tornado Timer</h1>
+          <h1 class="sr-only">Tidy Tornado Time</h1>
 
           <div class="timer-shell" id="timer" role="button" tabindex="0" aria-label="Restart timer">
             <svg class="ring-title" viewBox="0 0 160 160" aria-hidden="true">

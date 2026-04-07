@@ -180,7 +180,7 @@ class TornadoTime extends HTMLElement {
           --bg-top: #8fe7ff;
           --bg-middle: #b6ffcb;
           --bg-bottom: #fff0a8;
-          --timer-ink: #000000;
+          --timer-ink: #00000066;
         }
 
         * {
@@ -288,7 +288,7 @@ class TornadoTime extends HTMLElement {
           position: absolute;
           inset: 0.8rem;
           border-radius: 50%;
-          border: 4px dashed rgba(44, 44, 88, 0.44);
+          border: 4px dotted rgba(100, 60, 60, 0.44);
         }
 
         .timer-shell::after {

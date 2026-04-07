@@ -149,7 +149,7 @@ class TornadoTime extends HTMLElement {
         "#ffa94dcc",
         "#ff85c099"
       ];
-      const glyphs = ["🌪️", "🌪️", "🌪️", "⭐", "🧹", "🧹", "✨", "🫧", "🧽", "🧼", "🪣"];
+      const glyphs = ["🌪️", "🌪️", "🌪️"];
 
       piece.textContent = glyphs[this.randomInt(glyphs.length)];
       piece.style.pointerEvents = "none";

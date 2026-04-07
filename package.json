@@ -1,0 +1,10 @@
+{
+  "name": "tornado-time",
+  "version": "1.0.0",
+  "description": "Static tornado timer web component",
+  "private": true,
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "echo \"No build step required\""
+  }
+}

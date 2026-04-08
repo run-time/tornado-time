@@ -131,7 +131,7 @@ class TornadoTime extends HTMLElement {
 
   buildStormBackground() {
     const world = this.shadowRoot.getElementById("background");
-    const totalPieces = 220;
+    const totalPieces = 88;
 
     for (let index = 0; index < totalPieces; index += 1) {
       const piece = document.createElement("div");

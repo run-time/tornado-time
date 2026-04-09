@@ -425,7 +425,7 @@ class TornadoTime extends HTMLElement {
               <div id="time" class="time">05:00</div>
             </div>
           </div>
-          <h4>Hurry, everyone clean until the timer runs out!</h4>
+          <h2>Hurry, everyone clean until the timer runs out!</h2>
         </section>
       </div>
     `;
